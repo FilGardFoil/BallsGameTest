@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">BallsGameTest</string>
+    <string name="failResult">Наткнулся не на то!</string>
+    <string name="WinResult">Красавчик!</string>
+</resources>
